@@ -1,0 +1,16 @@
+[user]
+	name = Transon Nguyen
+	email = transon@transonn.com
+[push]
+	default = simple
+[alias]
+        a = add
+	b = branch
+	c = commit
+	cam = commit -am
+	d = diff
+	f = fetch
+	o = checkout
+	p = pull
+	s = status
+	branches = branch -a
